@@ -6,7 +6,7 @@ Classifying iris flower species using a feedforward neural network (MLP) built w
 
 ## Overview
 
-In 2025, I participated in MIT FutureMakers, a six-week program in collaboration with SureStart to teach students about data analysis, mobile app development, and deep learning. Our team completed three practice neural networks before creating a final capstone project; this was the first of the three networks that we created. The Iris dataset is a classic multiclass classification problem, but it served as our first exposure to how neural networks categorize data via supervised learning. The network learns to distinguish between three iris species based on four physical measurements, using batch normalization and dropout to prevent overfitting on the small dataset, and is trained for 50 epochs before determining the accuracy via graphs and reports.
+In 2025, I participated in MIT FutureMakers, a six-week program in collaboration with SureStart to teach students about data analysis, mobile app development, and deep learning. Our team completed three practice neural networks before creating a final capstone project; this was the first of the three networks that we created, acting explicitly as a learning exercise. The Iris dataset is a classic multiclass classification problem, but it served as our first exposure to how neural networks categorize data via supervised learning. The network learns to distinguish between three iris species based on four physical measurements, using batch normalization and dropout to prevent overfitting on the small dataset, and is trained for 50 epochs before determining the accuracy via graphs and reports.
 
 <img src="images/iris_seaborn_graphs.png" width="500"/>
 
