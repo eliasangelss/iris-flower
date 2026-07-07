@@ -36,7 +36,9 @@ The model achieved **100% accuracy** on the test set (30 samples), with no miscl
 | Iris-setosa | 1.00 | 1.00 | 1.00 | 10 |
 | Iris-versicolor | 1.00 | 1.00 | 1.00 | 9 |
 | Iris-virginica | 1.00 | 1.00 | 1.00 | 11 |
-| **Overall** | **1.00** | **1.00** | **1.00** | **30** |
+| Accuracy |  |  | 1.00 | 30 |
+| Macro Avg | 1.00 | 1.00 | 1.00 | 30 | 
+| Weighted Avg | 1.00 | 1.00 | 1.00 | 30 |
 
 ---
 
